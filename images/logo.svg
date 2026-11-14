@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 150">
+<rect width="420" height="150" rx="24" fill="#f7f8df"/>
+<g fill="#17652c"><path d="M205 34C178 0 141 5 130 29c27 5 52 8 75 5Z"/><path d="M211 33c22-34 58-34 76-11-22 13-48 18-76 11Z"/><path d="M207 35v22" stroke="#17652c" stroke-width="5" fill="none"/></g>
+<text x="210" y="98" text-anchor="middle" font-family="Georgia,serif" font-size="70" font-weight="bold" fill="#17652c">NEER</text>
+<text x="210" y="129" text-anchor="middle" font-family="Georgia,serif" font-size="23" font-style="italic" fill="#17652c">Refresh Naturally</text>
+</svg>
